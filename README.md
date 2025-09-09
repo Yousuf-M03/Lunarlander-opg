@@ -1,7 +1,7 @@
 # Lunarlander
 
-This repository contains my code for Lunarlander.  
-Below is the flowchart of how the program works.
+This repository contains my (s244871) code for this course's (62712) Lunarlander assignment.  
+Below is the flowchart for how the program works.
 
 ![Flowchart](Flowchart.png)
 
