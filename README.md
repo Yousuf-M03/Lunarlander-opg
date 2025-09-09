@@ -3,7 +3,7 @@
 This repository contains my code for Lunarlander.  
 Below is the flowchart of how the program works.
 
-![Flowchart](flowchart.png)
+![Flowchart](Flowchart.png)
 
 # Files
 - `Lunarlander.c` – main program code  
